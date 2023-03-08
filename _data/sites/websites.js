@@ -8,7 +8,6 @@ module.exports = {
 	urls: [
 		"https://www.robslippey.com",
 		"https://www.totaltech360.com",
-		"https://sweetvenomeffect.com",
 		"https://gutcheckpromotions.com",
 		"https://fcltv.com",
 	]
